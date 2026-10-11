@@ -1,0 +1,37 @@
+{
+  "algorithmVersion": "hmac-sha256-rank-v1",
+  "companyId": "acme",
+  "quarter": "2026-Q4",
+  "percentage": 25,
+  "eligibleCount": 15,
+  "selectedCount": 4,
+  "selectedVehicleIds": [
+    "veh-000007",
+    "veh-000009",
+    "veh-000015",
+    "veh-000004"
+  ],
+  "inputHash": "0d8dd1a4110558ef0fc4546e47dd99ba777d41128ff9f0ce2a89aa977e59e063",
+  "seedCommitment": "f5a836d1116e719215ec33e37098c83103dfddeecdb4b4a3c17df2576aba2c50",
+  "id": "d1f8a838-a033-4675-ba65-9892c926d3a4",
+  "seed": "9bc6f447c40d68a5c6b38deeb5aa0ead9c70fe2c9632e8e1ff768a63ae3ab19f",
+  "eligibleVehicleIds": [
+    "veh-000001",
+    "veh-000002",
+    "veh-000003",
+    "veh-000004",
+    "veh-000005",
+    "veh-000006",
+    "veh-000007",
+    "veh-000008",
+    "veh-000009",
+    "veh-000010",
+    "veh-000011",
+    "veh-000012",
+    "veh-000013",
+    "veh-000014",
+    "veh-000015"
+  ],
+  "createdAt": "2026-10-10T07:59:40.662Z",
+  "createdBy": "demo"
+}

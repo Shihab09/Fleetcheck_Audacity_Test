@@ -1,0 +1,22 @@
+{
+  "name": "fleetcheck-quarterly-selection",
+  "version": "1.0.0",
+  "description": "FleetCheck case study, Part 4 Option A: reproducible, idempotent quarterly random selection",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc",
+    "demo": "tsx src/cli.ts demo",
+    "verify": "tsx src/cli.ts verify"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  },
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
